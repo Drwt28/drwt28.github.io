@@ -15,7 +15,7 @@ I am Deepanshu Rawat, a Senior Mobile Engineer with over 6 years of experience i
 
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/deepanshu-rawat-3ba306111/) 
-- [Medium]([https://medium.com/@your-medium-profile/](https://medium.com/@deepanshurawat125)) 
+- [Medium](https://medium.com/@deepanshurawat125/) 
 
 ## Projects Featured on the Website
 - **Open AI Question Parser:** Automated question generation tool using OpenAI API.
